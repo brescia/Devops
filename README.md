@@ -1,2 +1,2 @@
 # Devops
-Projeto Devos
+Projeto Devops
